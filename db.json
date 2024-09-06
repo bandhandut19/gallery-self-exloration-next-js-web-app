@@ -1,0 +1,40 @@
+{
+    "shoes": [{
+            "id": "1",
+            "title": "Nike Air Max 270",
+            "description": "A stylish and comfortable sneaker with a large air cushion in the heel for maximum comfort and support.",
+            "price": 150.00
+        },
+        {
+            "id": "2",
+            "title": "Adidas Ultraboost 21",
+            "description": "High-performance running shoes featuring Boost cushioning and a Primeknit upper for a snug, responsive fit.",
+            "price": 180.00
+        },
+        {
+            "id": "3",
+            "title": "Puma RS-X3",
+            "description": "Retro-inspired sneakers with a chunky silhouette and cushioned midsole for all-day comfort.",
+            "price": 120.00
+        },
+        {
+            "id": "4",
+            "title": "New Balance 990v5",
+            "description": "Classic running shoes with premium materials and superior cushioning for ultimate comfort and support.",
+            "price": 185.00
+        },
+        {
+            "id": "5",
+            "title": "Converse Chuck Taylor All Star",
+            "description": "Timeless canvas sneakers with a versatile design that pairs well with any casual outfit.",
+            "price": 65.00
+        },
+        {
+            "id": "6",
+            "title": "Asics Gel-Kayano 28",
+            "description": "Supportive running shoes with Gel cushioning technology and a sleek design for stability and comfort.",
+            "price": 160.00
+        }
+    ]
+
+}
